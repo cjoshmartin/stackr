@@ -1,0 +1,23 @@
+{
+  "name": "stackr",
+  "version": "1.0.0",
+  "description": "A Stack Library for Javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cjoshmartin/stackr.git"
+  },
+  "keywords": [
+    "stacks",
+    "stack"
+  ],
+  "author": "Josh Martin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cjoshmartin/stackr/issues"
+  },
+  "homepage": "https://github.com/cjoshmartin/stackr#readme"
+}
