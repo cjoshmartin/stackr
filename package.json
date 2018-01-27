@@ -1,5 +1,5 @@
 {
-  "name": "stackr",
+  "name": "stackz",
   "version": "1.0.0",
   "description": "A Stack Library for Javascript",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cjoshmartin/stackr.git"
+    "url": "git+https://github.com/cjoshmartin/stackz.git"
   },
   "keywords": [
     "stacks",
@@ -17,7 +17,7 @@
   "author": "Josh Martin",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/cjoshmartin/stackr/issues"
+    "url": "https://github.com/cjoshmartin/stackz/issues"
   },
-  "homepage": "https://github.com/cjoshmartin/stackr#readme"
+  "homepage": "https://github.com/cjoshmartin/stackz#readme"
 }
